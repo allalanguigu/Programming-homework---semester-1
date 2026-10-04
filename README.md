@@ -9,9 +9,12 @@ Homework, projecto introduccion a la programacion - Generador de contraseñas
 
 # Videos de modificacion de GitHub
 https://youtu.be/6sIZbPFXjck
+
 https://youtu.be/7clzaKbkNQE
+
 https://youtu.be/H20de1eNtSM
 
 
 # Video de programacion
+
 https://youtu.be/SWFXlCq9D5c
